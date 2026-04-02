@@ -16,8 +16,8 @@
   --font-family: "Roboto", sans-serif;
   --text-lg: bold 32px/125% var(--font-family);
   --text: 16px/1.5 var(--font-family);
-  --text-md: 14px/175% var(--font-family);
-  --text-sm: 12px/175% var(--font-family);
+  --text-md: 14px/170% var(--font-family);
+  --text-sm: 12px/170% var(--font-family);
 }
 
 body {
@@ -26,35 +26,22 @@ body {
   background-color: var(--background-color);
 }
 
-a{
-    text-decoration: none;
-    color: inherit;
+a {
+  text-decoration: none;
+  color: inherit;
 }
 
 a:hover {
-    color: var(--brand-color);
-    text-decoration: underline;
+  color: var(--brand-color);
+  text-decoration: underline;
 }
 
 .container {
-    padding-inline: 32px;
-    max-width: 1280px;
-    margin-inline: auto;
+  padding-inline: 32px;
+  max-width: 1280px;
+  margin-inline: auto;
 }
 
 .bg-surface-color {
-    background-color: var(--surface-color);
+  background-color: var(--surface-color);
 }
-
-
-
-
-
-
-
-
-
-
-
-/*Amante de viagens, cultura e gastronomia. 🌍✈️  
-Aqui compartilho as histórias registradas em cada clique, explorando cantinhos fascinantes do nosso planeta a partir da movimentada cidade de São Paulo. 🏙️📸*/
